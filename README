@@ -1,5 +1,5 @@
 LU decomposition using threads.
-The program was written with C programming language  and with the use of the library <pthread.h>
+There are both Java and C versions.
 Give these values as input to the programm :
 a[0][0]=2;
 a[0][1]=1;
